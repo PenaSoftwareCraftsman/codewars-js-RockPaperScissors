@@ -1,9 +1,9 @@
-# KATA NAME
+# Rock Paper Scissors
 
-XXXX A short description XXXXXX
+Let's play! You have to return which player won! In case of a draw return Draw!.
 
 
-[XX KATA NAME FOR THE LINK](LINK)
+[Rock Paper Scissors!](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
 
 ## Prerequisites
 

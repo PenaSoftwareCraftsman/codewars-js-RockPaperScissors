@@ -1,0 +1,25 @@
+{
+  "name": "codewars-js-RockPaperScissors",
+  "version": "1.0.0",
+  "description": "XXXX A short description XXXXXX",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest",
+    "test:watch": "jest --watchAll --coverage=true --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PenaSoftwareCraftsman/codewars-js-RockPaperScissors.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PenaSoftwareCraftsman/codewars-js-RockPaperScissors/issues"
+  },
+  "homepage": "https://github.com/PenaSoftwareCraftsman/codewars-js-RockPaperScissors#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
